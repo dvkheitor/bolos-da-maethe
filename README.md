@@ -8,7 +8,7 @@ Desenvolvedores
 
 Projeto desenvolvido em colaboração por:
 
-- Heitor Devequi (@dvkheitor)
-- Lucas Camargo (@llucascamargo)
+Heitor Devequi (@dvkheitor)
+Lucas Camargo (@llucascamargo)
 
 Ambos participaram conjuntamente do desenvolvimento, design e estrutura do projeto.
